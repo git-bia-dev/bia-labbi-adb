@@ -4,4 +4,4 @@ def greetings(user):
 
 # COMMAND ----------
 
-greetings("[Nicolas Laderach]")
+greetings("Nicolas Laderach")
